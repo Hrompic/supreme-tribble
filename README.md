@@ -1,2 +1,2 @@
 # supreme-tribble
-This is very simple program, which print arguments of command line.
+This is very simple program, who print arguments of command line.
